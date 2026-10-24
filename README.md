@@ -7,6 +7,9 @@ a protective stop or loses its grip.
 > **Status:** work in progress
 
 ## Dataset
+- Column names were standardized (lowercase, no spaces). `Temperature_T0` was renamed to `temperature_j0`, assuming it is a typo of the J0 column.
+- 54 rows with missing sensor values or labels were removed (0.7% of the data).
+- Units are not documented by the data source.
 
 - **Source:** UR3 CobotOps dataset, UCI Machine Learning Repository
   (https://archive.ics.uci.edu/dataset/963/ur3+cobotops), CC BY 4.0
