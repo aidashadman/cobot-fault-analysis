@@ -25,7 +25,13 @@ Python (pandas, Matplotlib, Seaborn), SQLite and SQL, Power BI
 
 ## Analysis Questions
 
-(to be completed)
+1. How many protective stop and grip loss events occur, and how long does each last?
+2. How are these events distributed across work cycles?
+3. Which joint carries the highest electrical load?
+4. How does joint temperature evolve over time and across cycles?
+5. How do joint currents and speeds differ during a protective stop compared to normal operation?
+6. How do gripper current and joint behavior differ during a grip loss?
+7. Which sensor variables are most strongly associated with the events?
 
 ## Key Findings
 
